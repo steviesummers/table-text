@@ -4,11 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
-    "start": "",
-    "server": "",
+    "start:dev": "run-develop",
+    "start": "run-start",
+    "server": "server.js",
     "build": "",
-    "install": "",
+    "install": "install",
     "client": ""
   },
   "keywords": [],
